@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;  
+  padding: 0;
+  margin: 0  ;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  min-height: 100vh;
+  margin: 0 15px;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('/src/assests/2850815.jpg');
+  background-size: cover;
+}
+
+
+.weather-app{
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+}
